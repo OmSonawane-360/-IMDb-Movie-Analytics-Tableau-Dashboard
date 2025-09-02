@@ -23,7 +23,7 @@ The dashboard provides:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot](Screenshot.png)  
+![Dashboard Screenshot](https://github.com/OmSonawane-360/-IMDb-Movie-Analytics-Tableau-Dashboard/blob/main/Worksheet%20Screenshot/IMDB_Dashboard.png)  
 
 ---
 
