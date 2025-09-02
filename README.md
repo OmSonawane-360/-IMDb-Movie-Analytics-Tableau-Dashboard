@@ -1,4 +1,3 @@
-# -IMDb-Movie-Analytics-Tableau-Dashboard
 # 🎬 IMDb Movie Analytics – Tableau Dashboard  
 
 An interactive **Tableau Dashboard** built for analyzing **IMDb movie dataset** with insights into genres, ratings, revenues, and release trends.  
