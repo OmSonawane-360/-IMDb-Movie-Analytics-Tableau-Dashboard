@@ -44,8 +44,9 @@ The dashboard provides:
 ## 👨‍💻 Author  
 **Om Sonawane**  
 - 💼 Computer Engineering Student | Data Science & Visualization Enthusiast  
-- 🌐 Passionate about **Business Intelligence, Analytics, and Machine Learning**  
+- 🌐 Passionate about **GenAI, Analytics, and Machine Learning**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/om-sonawane360/) | [GitHub](https://github.com/OmSonawane-360)  
 
 ---
 ⭐ Don’t forget to give this repo a **star** if you found it useful!
+**Thanks** 
